@@ -1,1 +1,4 @@
-A description of the differences between the Astral Sea and material realms will go here.
+Astral Sea
+====================================
+
+.. include:: Intro.tex

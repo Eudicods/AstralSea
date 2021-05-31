@@ -1,0 +1,3 @@
+Githyanki
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+.. include:: Githyanki.tex

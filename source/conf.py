@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Theaceae'
+project = 'Astral Sea'
 copyright = '2020, Jeremy L Thompson'
 author = 'Jeremy L Thompson'
 

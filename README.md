@@ -6,7 +6,7 @@
 This is the reference materiel for the D&D realm of the Astral Sea.
 
 ### Live Website
-https://Eudicods.github.io/AstralSea/
+https://astralsea.jeremylt.org/
 
 ### Building Locally
 

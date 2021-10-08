@@ -1,7 +1,7 @@
 ## Astral Sea
 
 [![CI Status](https://github.com/Eudicods/AstralSea/workflows/Deploy/badge.svg)](https://github.com/Eudicods/AstralSea/actions)
-[![website](https://img.shields.io/badge/website-live-blue)](https://Eudicods.github.io/AstralSea/)
+[![website](https://img.shields.io/badge/website-live-blue)](https://astralsea.jeremylt.org)
 
 This is the reference materiel for the D&D realm of the Astral Sea.
 
